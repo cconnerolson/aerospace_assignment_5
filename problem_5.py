@@ -15,5 +15,5 @@ T_a = 303 # K
 P_g = 30 # psi
 
 
-def shock_propagation(c_1, gamma, P_1, P_2):  # speed of shock propagation, u_s
+def shock_propagation(c_1, gamma, P_1, P_2): # speed of shock propagation, u_s
 	return c_1 * sqrt((gamma - 1) / (2 * gamma) + (P_2 * (gamma + 1)) / (P_1 * 2 * gamma))
