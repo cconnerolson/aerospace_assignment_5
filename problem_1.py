@@ -1,4 +1,4 @@
-"""A stagnation temperature probe is mounted on the nose cone of a supersonic aircraft.  A normal shock wave stands in
+""" A stagnation temperature probe is mounted on the nose cone of a supersonic aircraft.  A normal shock wave stands in
 front of the tip of the probe.  The measured stagnation temperature pressure is T_t = 488 K as the jet cruises at an
 altitude of z = 15 km with ambient temperature T_a = 217 K and ambient pressure P_a = 12 kPa.
 
