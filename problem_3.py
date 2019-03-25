@@ -7,5 +7,5 @@ at the exit plane P_e = P_atm.
 # Givens
 
 
-def nozzle_area_ratio(A_e, A_t, x, l):  # the con-di nozzle area varies according to this ratio
-    return (A_e / A_t - 1) * (2 * x / l - 1) ** 2 + 1
+def nozzle_area_ratio(A_e, A_t, x, l): # the con-di nozzle area varies according to this ratio
+	return (A_e / A_t - 1) * (2 * x / l - 1) ** 2 + 1
