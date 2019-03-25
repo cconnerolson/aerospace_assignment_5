@@ -12,6 +12,6 @@ Find:
 # Givens
 
 T_t = 488 # K
-z = 15 # km
+z = 15e3 # m
 T_a = 217 # K
 P_a = 12 # kPa
